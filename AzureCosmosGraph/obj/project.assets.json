@@ -6322,11 +6322,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Work\\Azure\\Cosmos\\Graph\\cosmosgremlin\\AzureCosmosGraph\\CosmosGremlin\\CosmosGremlin.csproj",
+      "projectUniqueName": "C:\\Work\\Azure\\Cosmos\\Graph\\cosmosgremlin\\AzureCosmosGraph\\CosmosGremlin.csproj",
       "projectName": "CosmosGremlin",
-      "projectPath": "C:\\Work\\Azure\\Cosmos\\Graph\\cosmosgremlin\\AzureCosmosGraph\\CosmosGremlin\\CosmosGremlin.csproj",
+      "projectPath": "C:\\Work\\Azure\\Cosmos\\Graph\\cosmosgremlin\\AzureCosmosGraph\\CosmosGremlin.csproj",
       "packagesPath": "C:\\Users\\abhaldar\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Azure\\Cosmos\\Graph\\cosmosgremlin\\AzureCosmosGraph\\CosmosGremlin\\obj\\",
+      "outputPath": "C:\\Work\\Azure\\Cosmos\\Graph\\cosmosgremlin\\AzureCosmosGraph\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

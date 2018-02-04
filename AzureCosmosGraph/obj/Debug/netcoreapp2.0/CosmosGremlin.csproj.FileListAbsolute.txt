@@ -1,0 +1,11 @@
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\bin\Debug\netcoreapp2.0\CosmosGremlin.deps.json
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\bin\Debug\netcoreapp2.0\CosmosGremlin.runtimeconfig.json
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\bin\Debug\netcoreapp2.0\CosmosGremlin.runtimeconfig.dev.json
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\bin\Debug\netcoreapp2.0\CosmosGremlin.dll
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\bin\Debug\netcoreapp2.0\CosmosGremlin.pdb
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\obj\Debug\netcoreapp2.0\CosmosGremlin.csprojResolveAssemblyReference.cache
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\obj\Debug\netcoreapp2.0\CosmosGremlin.csproj.CoreCompileInputs.cache
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\obj\Debug\netcoreapp2.0\CosmosGremlin.AssemblyInfoInputs.cache
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\obj\Debug\netcoreapp2.0\CosmosGremlin.AssemblyInfo.cs
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\obj\Debug\netcoreapp2.0\CosmosGremlin.dll
+C:\Work\Azure\Cosmos\Graph\cosmosgremlin\AzureCosmosGraph\obj\Debug\netcoreapp2.0\CosmosGremlin.pdb
